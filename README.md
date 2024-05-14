@@ -6,15 +6,17 @@
 ## 목차
   - [개요](#개요) 
   - [게임 설명](#게임-설명)
-  - [게임 플레이 방식](#게임-플레이-방식)
+  - [게임 플레이 방식](#게임-플레이-방식)  
 
 ## 개요
 - 프로젝트 이름: 스파르타의 제왕
-- 개발 엔진 및 언어: Unity v.2022.03.24f1 & C#
+- 개발 엔진 및 언어: Unity v.2022.03.24f1 & C#  
 
 ## 게임 설명
-|![image](https://user-images.githubusercontent.com/66003567/216818254-18683c3f-af80-4009-b2cc-35bdee865f23.png)|![image](https://user-images.githubusercontent.com/66003567/216818272-8749569b-b217-4572-9738-32b0058459f4.png)|
+|![image](https://github.com/rlarhdal/LordOfSparta/assets/93560053/62c81130-e585-404d-8db4-697edd7bbabe)|![image](https://github.com/rlarhdal/LordOfSparta/assets/93560053/e649b761-be31-4130-842b-70efd848e5eb)|
 |:---:|:---:|
+|시작 화면|플레이어 생성|
+|![image](https://github.com/rlarhdal/LordOfSparta/assets/93560053/3258ce7e-cc45-4977-9897-f712ce6b869d)|![image](https://github.com/rlarhdal/LordOfSparta/assets/93560053/50469eaf-8b80-4100-ad84-f6b14d97843c)|
 |시작 화면|플레이어 생성|
 
 
@@ -22,5 +24,5 @@
 ## 게임 플레이 방식
 - 캐릭터 이동 방법  
 | 상호작용 : [ E ]  
-| 이동방향 : W | A | S | D |  
+| 이동방향 : [ W ] [ A ] [ S ] [ D ]  
 
